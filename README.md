@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm jumli</h1>
 <p align="center" width=80% height 200px>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jumli404" alt="Jumli404" /></a> </p>   
         <img src="https://github-profile-trophy.vercel.app/?username=jumli404" &theme=dark alt=*jumli404 Trophy" />
     </a>
 </p>
