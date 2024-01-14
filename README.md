@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm jumli</h1>
-<img src="https://github-profile-trophy.vercel.app/?username=jumli404" alt="Jumli404" /></a> </p>   
-        <img src="https://github-profile-trophy.vercel.app/?username=jumli404" &theme=dark alt=*jumli404 Trophy" />
+        <img src="https://github-profile-trophy.vercel.app/?username=jumli404" &theme=dark alt=jumli404 Trophy" />
     </a>
 </p>
 <p>
