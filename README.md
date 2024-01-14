@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm jumli</h1>
-<p align="center" width=80% height 200px>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jumli404" alt="Jumli404" /></a> </p>   
+<img src="https://github-profile-trophy.vercel.app/?username=jumli404" alt="Jumli404" /></a> </p>   
         <img src="https://github-profile-trophy.vercel.app/?username=jumli404" &theme=dark alt=*jumli404 Trophy" />
     </a>
 </p>
@@ -16,3 +14,4 @@
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jumli404&&theme=dark" alt="jumli404" />
 </p>
+
